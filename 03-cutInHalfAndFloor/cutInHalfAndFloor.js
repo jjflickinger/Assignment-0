@@ -1,5 +1,5 @@
 function cutInHalfAndFloor(num) {
-  // Insert code here;
+  return (num / 2) - ((num % 2)/2);
 }
 
 // Do not edit this line;
